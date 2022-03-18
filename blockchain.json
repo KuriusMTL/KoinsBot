@@ -1,3 +1,12 @@
 {
-    "blockchain": []
+    "blockchain": [
+        {
+            "Block 0 <block.Block object at 0x0000018322323C70>": {
+                "timestamp": "2022-03-18 16:02:01.996130",
+                "transactions": "[]",
+                "current hash": "b7cda9a7adfe3660647a883fbe8d0a6e9ee96a84a9cf713b11b12cd64020611e",
+                "previous hash": "0"
+            }
+        }
+    ]
 }
